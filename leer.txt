@@ -1,0 +1,9 @@
+FRONTEND
+0.- create-react-app nombre
+1.- npm install bootstrap
+2.- npm install axios
+
+
+BACKEND 
+
+1.- npm i express cors mysql nodemon mysql
